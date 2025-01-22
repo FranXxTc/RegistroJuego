@@ -1,1 +1,1 @@
-<h1>REgistro de juego</h1>
+<h1>Registro de juego</h1>
